@@ -1,0 +1,14 @@
+/Users/emrahelis/Metotlar-RefveOut/bin/Debug/net8.0/Metotlar-RefveOut
+/Users/emrahelis/Metotlar-RefveOut/bin/Debug/net8.0/Metotlar-RefveOut.deps.json
+/Users/emrahelis/Metotlar-RefveOut/bin/Debug/net8.0/Metotlar-RefveOut.runtimeconfig.json
+/Users/emrahelis/Metotlar-RefveOut/bin/Debug/net8.0/Metotlar-RefveOut.dll
+/Users/emrahelis/Metotlar-RefveOut/bin/Debug/net8.0/Metotlar-RefveOut.pdb
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.AssemblyInfoInputs.cache
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.AssemblyInfo.cs
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.dll
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/refint/Metotlar-RefveOut.dll
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.pdb
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.genruntimeconfig.cache
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/ref/Metotlar-RefveOut.dll
