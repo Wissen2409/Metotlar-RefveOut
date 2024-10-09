@@ -12,3 +12,4 @@
 /Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.pdb
 /Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.genruntimeconfig.cache
 /Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/ref/Metotlar-RefveOut.dll
+/Users/emrahelis/Metotlar-RefveOut/obj/Debug/net8.0/Metotlar-RefveOut.sourcelink.json
